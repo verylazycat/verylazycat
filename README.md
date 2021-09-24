@@ -1,7 +1,7 @@
 ### Hello 大兄弟 👋
 
 - 🌱 个人擅长 ![](https://img.shields.io/badge/端茶倒水-<GREEN>)  ![](https://img.shields.io/badge/日常背锅-<GREEN>)  ![](https://img.shields.io/badge/日常段子活跃气氛-<GREEN>) 
-- 🔭擅长语言：![](https://img.shields.io/badge/c-<GREEN>) ![](https://img.shields.io/badge/c艹-<GREEN>)  ![](https://img.shields.io/badge/java-<GREEN>)  ![](https://img.shields.io/badge/python-<GREEN>)![](https://img.shields.io/badge/golang-<GREEN>)
+- 🔭擅长语言：![](https://img.shields.io/badge/c-<GREEN>) ![](https://img.shields.io/badge/c艹-<GREEN>)  ![](https://img.shields.io/badge/java-<GREEN>)  ![](https://img.shields.io/badge/python-<GREEN>)  ![](https://img.shields.io/badge/golang-<GREEN>)
 
 ![](https://github-readme-stats.vercel.app/api?username=verylazycat&theme=dark)
 
