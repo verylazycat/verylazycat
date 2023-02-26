@@ -1,7 +1,12 @@
 ### Hello 大兄弟 👋
 
-- 🌱 个人擅长 ![](https://img.shields.io/badge/端茶倒水-<GREEN>)  ![](https://img.shields.io/badge/日常背锅-<GREEN>)  ![](https://img.shields.io/badge/日常段子活跃气氛-<GREEN>) 
-- 🔭擅长语言：![](https://img.shields.io/badge/c-<GREEN>) ![](https://img.shields.io/badge/c艹-<GREEN>)  ![](https://img.shields.io/badge/java-<GREEN>)  ![](https://img.shields.io/badge/python-<GREEN>)  ![](https://img.shields.io/badge/golang-<GREEN>)
+- 🌱 个人擅长 ![](https://img.shields.io/badge/端茶倒水-<GREEN>)  ![](https://img.shields.io/badge/业务突破-<GREEN>)  ![](https://img.shields.io/badge/日常氛围活跃-<GREEN>)  ![](https://img.shields.io/badge/商业分析-<GREEN>) ![](https://img.shields.io/badge/广告系统-<GREEN>)
+- 🔭擅长语言：![](https://img.shields.io/badge/c++-<GREEN>)  ![](https://img.shields.io/badge/java-<GREEN>)  ![](https://img.shields.io/badge/python-<GREEN>)  
+- 🎉博客：[点击访问](www.imod.top)
+- ⚡哔哩哔哩：[点击访问](https://space.bilibili.com/488874871?spm_id_from=333.1007.0.0)
+- 🔔工作经历：
+  - 👯阿里（2021.7~2022.12）
+  - 🌱自由职业（2023.1 ~ 至今）
 
 ![](https://github-readme-stats.vercel.app/api?username=verylazycat&theme=dark)
 
